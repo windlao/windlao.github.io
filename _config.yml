@@ -1,10 +1,10 @@
 name: "Zitao Liu"
-
+description: undergraduate student in Harbin Institude of Technology(shen zhen)
 avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
-  - name: 首页
+  - name: 
     url: /
   - name: 关于
     url: /about
