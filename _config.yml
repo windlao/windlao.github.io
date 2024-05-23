@@ -4,11 +4,9 @@ avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
-  - name: 
-    url: /
-  - name: 关于
+  - name: About Me
     url: /about
-  - name: 分类
+  - name: catogory
     url: /tags
 
 paginate: 8
