@@ -1,5 +1,5 @@
 name: "Zitao Liu"
-description: undergraduate student in Harbin Institude of Technology(shen zhen)
+description: an undergraduate student in Harbin Institude of Technology, Shenzhen
 avatar: https://windlao.github.io/images/photo.jpg
 
 
@@ -45,7 +45,7 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
-
+哈哈哈哈哈哈哈哈哈哈哈
 # Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
